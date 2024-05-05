@@ -1,0 +1,40 @@
+spring:
+  redis:
+    host: 127.0.0.1
+    port: 6379
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/campus_bbs
+    username: root
+    password: 123456
+
+  quartz:
+    job-store-type: jdbc
+    jdbc:
+      initialize-schema: always
+
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+#    auto-mapping-unknown-column-behavior:
+    plugins:
+      - com.github.pagehelper.PageInterceptor
+pagehelper:
+  # 分页合理化参数配置
+  reasonable: true
+  # 支持通过 Mapper 接口参数来传递分页参数
+  support-methods-arguments: true
+  # 默认每页条数
+  default-page-size: 5
+  # 默认第一页
+  default-page-num: 1
+
+server:
+  websocket:
+    enabled: true
+  port: 8080
+
+
+

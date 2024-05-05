@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60632b9e-02f7-4df2-b764-8af251923b95" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\apache-maven-3.9.3\repository" />
+        <option name="mavenHome" value="F:/apache-maven-3.9.3" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.9.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="2ZlVQUOW5IpKlYmHTChPXx4siaf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Administrator/Desktop/mall4cloud-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.13967973",
+    "project.structure.side.proportion": "0.29089028",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "107f431e09beb7e591df1727d13cbd08",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.recommend" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\CampusShare" />
+      <recent name="C:\Users\Administrator\Desktop\WeixinLoginDemo\upload\avatars" />
+      <recent name="C:\Users\Administrator\Desktop\WeixinLoginDemo\src\main\java\org\example\controller" />
+      <recent name="C:\Users\Administrator\Desktop\WeixinLoginDemo\upload" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\WeixinLoginDemo\src\main\resources\static" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.enity.Vo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MySpringBootApplication">
+    <configuration name="IBCFRecommender" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.utils.IBCFRecommender" />
+      <module name="WeixinLoginDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySpringBootApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.MySpringBootApplication" />
+      <module name="WeixinLoginDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.config.temp" />
+      <module name="WeixinLoginDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IBCFRecommender.update" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WeixinLoginDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.utils" />
+      <option name="MAIN_CLASS_NAME" value="org.example.utils.IBCFRecommender" />
+      <option name="METHOD_NAME" value="update" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySpringBootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="WeixinLoginDemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.MySpringBootApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MySpringBootApplication" />
+      <item itemvalue="Application.temp" />
+      <item itemvalue="Application.IBCFRecommender" />
+      <item itemvalue="JUnit.IBCFRecommender.update" />
+      <item itemvalue="Spring Boot.MySpringBootApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MySpringBootApplication" />
+        <item itemvalue="Spring Boot.MySpringBootApplication" />
+        <item itemvalue="Application.temp" />
+        <item itemvalue="JUnit.IBCFRecommender.update" />
+        <item itemvalue="Application.IBCFRecommender" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60632b9e-02f7-4df2-b764-8af251923b95" name="Changes" comment="" />
+      <created>1702996638220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702996638220</updated>
+      <workItem from="1702996640309" duration="6559000" />
+      <workItem from="1703111289451" duration="912000" />
+      <workItem from="1703144633839" duration="935000" />
+      <workItem from="1703146588150" duration="21394000" />
+      <workItem from="1703319995323" duration="357000" />
+      <workItem from="1703480766577" duration="30699000" />
+      <workItem from="1703600241740" duration="53335000" />
+      <workItem from="1703850801412" duration="13709000" />
+      <workItem from="1704007607895" duration="595000" />
+      <workItem from="1704198546703" duration="54055000" />
+      <workItem from="1704538209616" duration="81838000" />
+      <workItem from="1704904491180" duration="1304000" />
+      <workItem from="1705063573584" duration="46196000" />
+      <workItem from="1705410888820" duration="3608000" />
+      <workItem from="1705444757126" duration="79000" />
+      <workItem from="1705444971155" duration="751000" />
+      <workItem from="1705475998220" duration="1680000" />
+      <workItem from="1705548228872" duration="617000" />
+      <workItem from="1705591039569" duration="9504000" />
+      <workItem from="1705753842186" duration="16682000" />
+      <workItem from="1706059777097" duration="22118000" />
+      <workItem from="1706424246099" duration="6373000" />
+      <workItem from="1706595058430" duration="308000" />
+      <workItem from="1706595380649" duration="4410000" />
+      <workItem from="1706599814128" duration="37654000" />
+      <workItem from="1706929783441" duration="30273000" />
+      <workItem from="1707015017700" duration="17111000" />
+      <workItem from="1707191062950" duration="37323000" />
+      <workItem from="1707643870349" duration="186000" />
+      <workItem from="1707644067184" duration="91000" />
+      <workItem from="1707644172308" duration="72000" />
+      <workItem from="1707644257360" duration="63418000" />
+      <workItem from="1709384529586" duration="238000" />
+      <workItem from="1709384783263" duration="8205000" />
+      <workItem from="1710760343212" duration="211000" />
+      <workItem from="1710760574721" duration="2374000" />
+      <workItem from="1710764610360" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/controller/CommentController.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/service/CollectService.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/intercentor/AdminInterceptor.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/intercentor/AdminInterceptor.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.Integer" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
